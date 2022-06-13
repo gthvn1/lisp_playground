@@ -4,3 +4,6 @@
 [submodule "common_lisp_kindergarten"]
 	path = common_lisp_kindergarten
 	url = git@github.com:gthvn1/common_lisp_kindergarten.git
+[submodule "hy_kindergarten"]
+	path = hy_kindergarten
+	url = git@github.com:gthvn1/hy_kindergarten.git
