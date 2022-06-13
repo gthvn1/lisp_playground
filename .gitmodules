@@ -1,3 +1,6 @@
 [submodule "clojure_kindergarten"]
 	path = clojure_kindergarten
 	url = git@github.com:gthvn1/clojure_kindergarten.git
+[submodule "common_lisp_kindergarten"]
+	path = common_lisp_kindergarten
+	url = git@github.com:gthvn1/common_lisp_kindergarten.git
