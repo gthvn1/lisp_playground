@@ -1,0 +1,3 @@
+[submodule "clojure_kindergarten"]
+	path = clojure_kindergarten
+	url = git@github.com:gthvn1/clojure_kindergarten.git
