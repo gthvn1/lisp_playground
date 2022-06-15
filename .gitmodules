@@ -7,3 +7,6 @@
 [submodule "hy_kindergarten"]
 	path = hy_kindergarten
 	url = git@github.com:gthvn1/hy_kindergarten.git
+[submodule "scheme_kindergarten"]
+	path = scheme_kindergarten
+	url = git@github.com:gthvn1/scheme_kindergarten.git
